@@ -46,4 +46,4 @@ Este proyecto consiste en una aplicación de consola en Java que permite realiza
 - `README.md`: Documentación del proyecto.
 
 ## ✒️ Autor
-**Adrian** - *Desarrollo de Software* - [GitHub](https://github.com/adrencina)
+**Encina Adrián** - *Desarrollador de Software* - [GitHub](https://github.com/adrencina)
